@@ -9,6 +9,7 @@ body {
     color: black;
     width: 800px;
     height: 100%;
+    cursor: pointer;
     position: absolute;
     margin: 0 auto;
     padding: 20px; 
