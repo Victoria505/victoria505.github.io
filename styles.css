@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color:#6495ED;
     height:100%;
+    position:relative
 }
 
 #main {
