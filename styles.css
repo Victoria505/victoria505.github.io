@@ -9,9 +9,7 @@ body {
     background: white;
     color: black;
     width: 800px;
-    height: 100%;
-    cursor: pointer;
-    position: absolute;
+    height: 0 auto;
     margin: 0 auto;
     padding: 20px; 
     text-align: justify; 
